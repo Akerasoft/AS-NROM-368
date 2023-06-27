@@ -1,0 +1,21 @@
+### Footprint positions - created on Mon Jun 26 20:37:27 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                            PosX       PosY       Rot  Side
+C1        22uF_ELECTROLITIC  CP_Radial_D5.0mm_P2.50mm       103.4051   -88.0300  180.0000  top
+C2        0.1uF              C_Disc_D3.0mm_W1.6mm_P2.50mm   142.8500  -127.7700  180.0000  top
+C3        0.1uF              C_Disc_D3.0mm_W1.6mm_P2.50mm    97.4400  -127.7200  180.0000  top
+J1        NES72PinConnector  NES72PinEdgeConnector2          55.5866  -132.1286    0.0000  top
+U1        SST39SF010         DIP-32_W15.24mm                143.2500  -109.8900  -90.0000  top
+U2        SST39SF010         DIP-32_W15.24mm                100.0067  -109.8900  -90.0000  top
+U3        74LVC1G332         SOT-886                        138.4808   -84.0486    0.0000  top
+U5        ~                  DIP-16_W7.62mm                  69.9700   -90.9600  180.0000  top
+U6        ATtiny13-20P       DIP-8_W7.62mm                   73.2600   -75.7200    0.0000  top
+U9        MROM               DIP-28_W15.24mm                 93.0400   -52.7550  -90.0000  top
+U10       MROM               DIP-28_W15.24mm                146.4600   -52.8850  -90.0000  top
+U11       4082               DIP-14_W7.62mm                 111.4750   -85.7800   90.0000  top
+U13       74AHC1G32          SOT-23-5                       115.7700   -90.1900  -90.0000  top
+U14       74AHC1G04          SOT-23-5                       112.2700   -90.1900  -90.0000  top
+U15       74AHC1G04          SOT-23-5                       119.2600   -90.1900  -90.0000  top
+## End
